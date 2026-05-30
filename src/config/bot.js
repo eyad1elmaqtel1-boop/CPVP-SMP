@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "CPVP is a Minecraft Server where you try to become rich by selling any item in the game.",
         // Activity type number (0 = Playing).
         type: 0, 
       },
